@@ -1,6 +1,6 @@
 # 🌦️ Weather Report Web App
 
-A lightweight and responsive weather dashboard that allows users to search for any city's current weather using the OpenWeather API. Built using **React.js** and deployed on **Netlify**.
+A lightweight and responsive weather dashboard that allows users to search for any city's current weather using the OpenWeather API. Built using **React.js** and deployed on **Vercel**.
 
 ---
 
