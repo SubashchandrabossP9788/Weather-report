@@ -16,7 +16,7 @@ A lightweight and responsive weather dashboard that allows users to search for a
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the deployed app](https://your-netlify-url.netlify.app)
+🔗 [Click here to view the deployed app](https://weather-report-pearl.vercel.app/)
 
 ---
 
@@ -54,9 +54,6 @@ bash
 Copy
 Edit
 npm start
-🖼️ Screenshots
-Add your app screenshots here for better visualization.
-
 📂 Folder Structure
 css
 Copy
